@@ -2,6 +2,10 @@
 
 An AI-powered tool that analyzes software projects and detects potential technical risks before investment or acquisition decisions.
 
+## System Architecture
+
+![Architecture](architecture.png)
+
 ## Problem
 Investors and companies often evaluate software startups without deeply understanding the technical risks inside the codebase.
 
@@ -31,4 +35,6 @@ Project Risk Rating: No-Go | Significant technical risks detected.
 ## Future Improvements
 - Risk scoring system
 - AI-based code analysis
-- Web interface for project uploads
+- Web interface for project upload
+
+[def]: architecture.png
